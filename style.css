@@ -1,0 +1,39 @@
+html {
+  margin: 0;
+}
+
+body {
+  background-color: #faf7e3;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 0;
+  text-align: center;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+span {
+  opacity: 0.1;
+}
+
+div {
+  padding-bottom: 70px;
+}
+
+p {
+  font-style: italic;
+  color: #555555;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  background-color: #be9984;
+  padding: 0;
+}
+© 2022 GitHub, In

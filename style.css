@@ -19,9 +19,13 @@ span {
   opacity: 0.1;
 }
 
-div img {
+#profile {
   height: 80%;
 }
+
+/* div img {
+  height: 80%;
+} */
 
 div {
   padding-bottom: 70px;
@@ -44,4 +48,8 @@ footer {
 
 .footer-link {
   text-decoration: none;
+}
+
+.beet-img {
+  height: 50%;
 }

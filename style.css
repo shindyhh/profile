@@ -1,14 +1,8 @@
-html {
-
-}
-
 body {
   background-color: #faf7e3;
   font-family: 'Open Sans', sans-serif;
-  padding-top: 0;
   text-align: center;
-  padding-right: 0;
-  padding-left: 0;
+  margin: 0;
 }
 
 h1 {
@@ -40,6 +34,7 @@ ul {
 
 footer {
   background-color: #be9984;
+  padding-top: 1px;
 }
 
 .footer-link {

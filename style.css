@@ -34,6 +34,8 @@ p {
 
 ul {
   list-style: none;
+  display: inline-flex;
+  gap: 30px;
 }
 
 footer {

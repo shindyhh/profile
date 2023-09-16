@@ -41,3 +41,7 @@ ul {
 footer {
   background-color: #be9984;
 }
+
+.footer-link {
+  text-decoration: none;
+}
